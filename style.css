@@ -42,7 +42,7 @@ body {
 }
 
 main {
-    width: 100%;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
     margin-bottom: 30px;
